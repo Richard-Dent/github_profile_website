@@ -1,6 +1,6 @@
 # GitHub Profile App Website
 
-The GitHub Profile App website is a tailwind css website.  It is the website for the GitHub Profile App that searches the profiles of GitHub users and displays their last five respositories.
+The GitHub Profile App website is a tailwind css website.  It is the website for the GitHub Profile App that searches the profiles of GitHub users and displays their last five repositories.
 
 ![github profile screenshot](images/GITHUB_PROFILE_WEBSITE.png)
 
